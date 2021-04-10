@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">quinfo</string>
+    <string name="welcome_to_quinfo">Welcome to Quinfo</string>
+    <string name="play">play</string>
+    <string name="todo">TODO</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+</resources>
