@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         button=findViewById(R.id.button);
     }
     public void open(View v){
-        Intent intent=new Intent(MainActivity.this, MainActivity2.class);
+        Intent intent=new Intent(MainActivity.this, MainActivity4.class);
         startActivity(intent);
     }
 }
